@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    14b4cd3e-7744-47ad-a775-8d4633d44d37: f48be3d2-5c72-4735-9a08-bc2b598a94b1/792018ca139938e11a8ee184bdf6bf75/Data/coffee_cup_empty_color.png
+  Assets:
+    - !<FileTexture/14b4cd3e-7744-47ad-a775-8d4633d44d37>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: 792018ca139938e11a8ee184bdf6bf75
+  FileHash: 9482cdaf85577ae492ddecad6276ba2d
+  NativePackageItems:
+    []

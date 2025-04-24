@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    44b6c045-2ac2-4a7f-880e-15c0a53e5ea3: fe17d336-4c85-42b0-806f-3c9a42fca862/776e4426ed6db34527729d272c017c1f/Data/glass_water_color.png
+  Assets:
+    - !<FileTexture/44b6c045-2ac2-4a7f-880e-15c0a53e5ea3>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 256
+  SourceHash: 776e4426ed6db34527729d272c017c1f
+  FileHash: 05f86224520b75118060c4286bb215cd
+  NativePackageItems:
+    []

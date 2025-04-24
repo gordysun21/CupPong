@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    67790084-798c-46da-85ae-9b1579281eef: 193afe0b-2ac4-429d-b85f-3976990a5d97/c31286bb4870350767218de3553aa738/Data/fancy_glass_color.png
+  Assets:
+    - !<FileTexture/67790084-798c-46da-85ae-9b1579281eef>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: c31286bb4870350767218de3553aa738
+  FileHash: 2ac50c4ac0da8955a6acd2a2140e5439
+  NativePackageItems:
+    []

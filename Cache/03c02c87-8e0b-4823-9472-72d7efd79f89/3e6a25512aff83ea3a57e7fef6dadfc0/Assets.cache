@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    2b1c1e45-89bf-4d71-9152-4cd562b02d9a: 03c02c87-8e0b-4823-9472-72d7efd79f89/3e6a25512aff83ea3a57e7fef6dadfc0/Data/pint_color.png
+  Assets:
+    - !<FileTexture/2b1c1e45-89bf-4d71-9152-4cd562b02d9a>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: 3e6a25512aff83ea3a57e7fef6dadfc0
+  FileHash: 4fc3a598b7ea579db1d7e9bae09df3ff
+  NativePackageItems:
+    []

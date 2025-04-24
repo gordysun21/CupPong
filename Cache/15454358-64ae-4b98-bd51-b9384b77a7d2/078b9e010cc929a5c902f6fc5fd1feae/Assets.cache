@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    73f1d505-f480-4e5f-a4d3-028f77d3ac8b: 15454358-64ae-4b98-bd51-b9384b77a7d2/078b9e010cc929a5c902f6fc5fd1feae/Data/C_bottle_water_GEO.mesh
+  Assets:
+    - !<FileMesh/73f1d505-f480-4e5f-a4d3-028f77d3ac8b>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 880
+        Vertices: 609
+        Blendshapes:
+          []
+        Joints: 1
+        AabbSize: {x: 10.240616, y: 31.991207, z: 10.240620}
+  SourceHash: 078b9e010cc929a5c902f6fc5fd1feae
+  FileHash: bc95ed6063376d335d837c7d125f762e
+  NativePackageItems:
+    []

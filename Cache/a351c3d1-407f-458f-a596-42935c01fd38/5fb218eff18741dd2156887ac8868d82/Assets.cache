@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    e75256b6-a1a3-42e0-9dfe-fab5ae690fce: a351c3d1-407f-458f-a596-42935c01fd38/5fb218eff18741dd2156887ac8868d82/Data/Placeholder Texture.png
+  Assets:
+    - !<FileTexture/e75256b6-a1a3-42e0-9dfe-fab5ae690fce>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1
+        Height: 1
+  SourceHash: 5fb218eff18741dd2156887ac8868d82
+  FileHash: 61372bc19d94ff33d218574aeb3b8a83
+  NativePackageItems:
+    []

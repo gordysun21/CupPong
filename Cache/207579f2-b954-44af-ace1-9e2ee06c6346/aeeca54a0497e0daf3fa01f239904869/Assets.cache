@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    57cff8c4-9b6a-4aa4-b197-884cd7a30c21: 207579f2-b954-44af-ace1-9e2ee06c6346/aeeca54a0497e0daf3fa01f239904869/Data/drink_tropical_color.png
+  Assets:
+    - !<FileTexture/57cff8c4-9b6a-4aa4-b197-884cd7a30c21>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: aeeca54a0497e0daf3fa01f239904869
+  FileHash: 3fee400f6c4a3cdd3e9659c5083e0e77
+  NativePackageItems:
+    []

@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    93d1c7c7-ba02-47ee-8ea6-03254a5e8c11: 3e115d1b-4b9d-472d-98c4-8b06f3da23e0/65e28f69235428a80647fafbb003b1aa/Data/cup_color.png
+  Assets:
+    - !<FileTexture/93d1c7c7-ba02-47ee-8ea6-03254a5e8c11>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: 65e28f69235428a80647fafbb003b1aa
+  FileHash: b5cf0463bffa3212ef06b15fd55d87d0
+  NativePackageItems:
+    []

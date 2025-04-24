@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    c4f7d847-89ef-494f-8eba-13be14e58c65: 9193fcb3-f802-408c-9589-ade5961bb7b4/44e69b92cb3dd947927ff9e1a82b175f/Data/C_cup_GEO.mesh
+  Assets:
+    - !<FileMesh/c4f7d847-89ef-494f-8eba-13be14e58c65>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 384
+        Vertices: 341
+        Blendshapes:
+          []
+        Joints: 1
+        AabbSize: {x: 12.641439, y: 14.648988, z: 12.641439}
+  SourceHash: 44e69b92cb3dd947927ff9e1a82b175f
+  FileHash: 652eebad9905111bdc854202698b554f
+  NativePackageItems:
+    []

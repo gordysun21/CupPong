@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    7533b73c-8bb9-416f-8d45-17453a8a6cee: 1538e318-e913-4c4b-9862-e0426fa9dcb0/def8ebe93fc9103450689253d154f13b/Data/bottle_water_color.png
+  Assets:
+    - !<FileTexture/7533b73c-8bb9-416f-8d45-17453a8a6cee>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: def8ebe93fc9103450689253d154f13b
+  FileHash: e64ede3bb06c55bc8738c2106433d149
+  NativePackageItems:
+    []

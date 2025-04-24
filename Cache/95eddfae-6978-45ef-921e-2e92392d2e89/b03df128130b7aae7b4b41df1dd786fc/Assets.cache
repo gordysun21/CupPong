@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    40d0e7c1-db7b-40fe-adaa-8add5155e367: 95eddfae-6978-45ef-921e-2e92392d2e89/b03df128130b7aae7b4b41df1dd786fc/Data/C_wineGlass_GEO.mesh
+  Assets:
+    - !<FileMesh/40d0e7c1-db7b-40fe-adaa-8add5155e367>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 788
+        Vertices: 537
+        Blendshapes:
+          []
+        Joints: 1
+        AabbSize: {x: 13.856298, y: 16.422783, z: 13.856296}
+  SourceHash: b03df128130b7aae7b4b41df1dd786fc
+  FileHash: 2967f203456d16a92932ec34f5d90bc7
+  NativePackageItems:
+    []

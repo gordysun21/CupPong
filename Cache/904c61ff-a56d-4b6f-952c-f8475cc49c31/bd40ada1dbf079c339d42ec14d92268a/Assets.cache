@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    a89589dc-0104-4529-8121-905009c91c1b: 904c61ff-a56d-4b6f-952c-f8475cc49c31/bd40ada1dbf079c339d42ec14d92268a/Data/C_liquid_GEO.mesh
+  Assets:
+    - !<FileMesh/a89589dc-0104-4529-8121-905009c91c1b>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 144
+        Vertices: 102
+        Blendshapes:
+          []
+        Joints: 1
+        AabbSize: {x: 3.595904, y: 9.145388, z: 3.595904}
+  SourceHash: bd40ada1dbf079c339d42ec14d92268a
+  FileHash: 479715a0f45bae785c3f8f89fece319a
+  NativePackageItems:
+    []

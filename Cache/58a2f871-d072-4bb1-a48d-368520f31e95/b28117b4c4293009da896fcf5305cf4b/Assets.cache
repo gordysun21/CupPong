@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    a0cb1e68-f87f-4ebb-984a-2a6d2de3c0e8: 58a2f871-d072-4bb1-a48d-368520f31e95/b28117b4c4293009da896fcf5305cf4b/Data/C_drink_tropical_glass_GEO.mesh
+  Assets:
+    - !<FileMesh/a0cb1e68-f87f-4ebb-984a-2a6d2de3c0e8>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 80
+        Vertices: 86
+        Blendshapes:
+          []
+        Joints: 1
+        AabbSize: {x: 8.501286, y: 19.350494, z: 8.085206}
+  SourceHash: b28117b4c4293009da896fcf5305cf4b
+  FileHash: b945d0120fc1dddc371caaf76672055d
+  NativePackageItems:
+    []

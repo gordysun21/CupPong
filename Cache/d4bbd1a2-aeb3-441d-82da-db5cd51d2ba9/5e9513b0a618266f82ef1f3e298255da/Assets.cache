@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    80c7c930-b622-47cd-980b-fabb21b824f6: d4bbd1a2-aeb3-441d-82da-db5cd51d2ba9/5e9513b0a618266f82ef1f3e298255da/Data/soda_bottle_color.png
+  Assets:
+    - !<FileTexture/80c7c930-b622-47cd-980b-fabb21b824f6>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: 5e9513b0a618266f82ef1f3e298255da
+  FileHash: d7c5eac9933532d19ff382ac0d3a336e
+  NativePackageItems:
+    []

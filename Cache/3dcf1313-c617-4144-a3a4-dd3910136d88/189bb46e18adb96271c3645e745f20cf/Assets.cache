@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    973d13f9-a93f-4f0b-beb3-675a72c8b238: 3dcf1313-c617-4144-a3a4-dd3910136d88/189bb46e18adb96271c3645e745f20cf/Data/coffee_cup_color.png
+  Assets:
+    - !<FileTexture/973d13f9-a93f-4f0b-beb3-675a72c8b238>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: 189bb46e18adb96271c3645e745f20cf
+  FileHash: ba37eaf03a3d56578fcecf9031a3dad0
+  NativePackageItems:
+    []

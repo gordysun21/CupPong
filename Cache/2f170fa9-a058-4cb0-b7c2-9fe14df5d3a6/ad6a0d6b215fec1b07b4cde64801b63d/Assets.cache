@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    91768b10-3745-45c2-9708-27b97af06869: 2f170fa9-a058-4cb0-b7c2-9fe14df5d3a6/ad6a0d6b215fec1b07b4cde64801b63d/Data/umbrella_mocktail_color.png
+  Assets:
+    - !<FileTexture/91768b10-3745-45c2-9708-27b97af06869>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: ad6a0d6b215fec1b07b4cde64801b63d
+  FileHash: e3197b974e85134b6bdb266aeadb4b20
+  NativePackageItems:
+    []

@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    6dd957a7-df5a-4ebf-8b46-f97f154dacd0: 32423321-f968-45e6-944d-73dce4233c85/1771f0aac3c28bca4c463310a3e67056/Data/C_cup_liquid_GEO.mesh
+  Assets:
+    - !<FileMesh/6dd957a7-df5a-4ebf-8b46-f97f154dacd0>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 164
+        Vertices: 332
+        Blendshapes:
+          []
+        Joints: 1
+        AabbSize: {x: 10.718643, y: 11.247952, z: 10.718647}
+  SourceHash: 1771f0aac3c28bca4c463310a3e67056
+  FileHash: 969798f43a2f9a01aa910cef1f967e31
+  NativePackageItems:
+    []

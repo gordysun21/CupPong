@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    203801eb-d1cf-47e4-b3f6-7c40ac5d4e1c: 31ff257c-23f3-47ba-a929-ea0e5e360c34/dd351b7348b778887efec8b8d788d472/Data/cup_coffee_togo_color.png
+  Assets:
+    - !<FileTexture/203801eb-d1cf-47e4-b3f6-7c40ac5d4e1c>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: dd351b7348b778887efec8b8d788d472
+  FileHash: b49ed3492610e7aa2273c71ae8330e2d
+  NativePackageItems:
+    []

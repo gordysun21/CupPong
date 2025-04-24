@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    9d994c4b-2038-4f0e-ad96-4b9474b86696: 91d6c524-355d-49e4-8a62-f8add3cffb9c/2b1d1cb648ff98b6b99c70a2cb484f09/Data/cup_color.png~
+  Assets:
+    - !<BinAsset/9d994c4b-2038-4f0e-ad96-4b9474b86696>
+      PackagePath: ""
+  SourceHash: 2b1d1cb648ff98b6b99c70a2cb484f09
+  FileHash: b5cf0463bffa3212ef06b15fd55d87d0
+  NativePackageItems:
+    []

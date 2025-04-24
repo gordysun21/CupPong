@@ -1,0 +1,278 @@
+
+{ 
+	"ui": 
+	[
+		{
+        	"label": "Graph Parameters",
+        	"widget": "group_start"
+        },
+{
+                	"bindingName": "Tweak_N175",
+                	"label":       "BaseColor",
+                	"widget":      "color",
+                	"sortIndex":   "0",
+                	"hint":        "",
+                	"default":     "1.0"
+                },
+                
+                {
+                	"bindingName": "Tweak_N177",
+                	"bindingType": "define",
+                	"optimize":    true,
+                	"label":       "Use Base Texture",
+                	"widget":      "checkbox",
+                	"sortIndex":   "1",
+                	"hint":        ""
+                },
+                
+                { 
+                	"bindingName": "Tweak_N167", 
+                	"label":       "Base Texture", 
+                	"widget":      "texture_group",
+                	"sortIndex":   "2",
+                	"hint":        ""
+                },
+                
+                {
+                	"bindingName": "Tweak_N17",
+                	"label":       "Opacity",
+                	"widget":      "slider",
+                	"min":         0,
+                	"max":         1,
+                	"step":        "0.01",
+                	"sortIndex":   "3",
+                	"hint":        "",
+                	"default":     "1.0"
+                },
+                
+                {
+                	"bindingName": "Tweak_N45",
+                	"bindingType": "define",
+                	"optimize":    true,
+                	"label":       "PBR",
+                	"widget":      "checkbox",
+                	"sortIndex":   "3",
+                	"hint":        ""
+                },
+                
+                { 
+                	"bindingName": "Tweak_N168", 
+                	"label":       "Normal Texture", 
+                	"widget":      "texture_group",
+                	"sortIndex":   "4",
+                	"hint":        ""
+                },
+                
+                { 
+                	"bindingName": "Tweak_N169", 
+                	"label":       "Material Params", 
+                	"widget":      "texture_group",
+                	"sortIndex":   "5",
+                	"hint":        ""
+                },
+                
+                {
+                	"label":       "Animate Instance Y Pos",
+                	"bindingName": "Tweak_N163",
+                	"bindingType": "define",
+                	"optimize":    true,
+                	"widget":      "group_start",
+                	"sortIndex":   "0",
+                	"hint":        ""
+                }
+                ,                    
+                    {
+                    	"bindingName": "Tweak_N144",
+                    	"label":       "Variation",
+                    	"widget":      "spinbox",
+                    	"step":        "0.01",
+                    	"sortIndex":   "8",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "Tweak_N142",
+                    	"label":       "Speed",
+                    	"widget":      "spinbox",
+                    	"step":        "0.01",
+                    	"sortIndex":   "8",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "Tweak_N143",
+                    	"label":       "Amplitude",
+                    	"widget":      "spinbox",
+                    	"step":        "0.01",
+                    	"sortIndex":   "8",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                {
+                	"_bindingName": "Tweak_N163",
+                	"widget": "group_end"
+                }
+                ,
+                
+                {
+                	"label":       "Animate Instance Scale",
+                	"bindingName": "Tweak_N166",
+                	"bindingType": "define",
+                	"optimize":    true,
+                	"widget":      "group_start",
+                	"sortIndex":   "0",
+                	"hint":        ""
+                }
+                ,                    
+                    {
+                    	"bindingName": "Tweak_N112",
+                    	"label":       "Variation",
+                    	"widget":      "spinbox",
+                    	"step":        "0.01",
+                    	"sortIndex":   "9",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "Tweak_N110",
+                    	"label":       "Speed",
+                    	"widget":      "spinbox",
+                    	"step":        "0.01",
+                    	"sortIndex":   "9",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "Tweak_N111",
+                    	"label":       "Amplitude",
+                    	"widget":      "spinbox",
+                    	"step":        "0.01",
+                    	"sortIndex":   "9",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                {
+                	"_bindingName": "Tweak_N166",
+                	"widget": "group_end"
+                }
+                ,
+                
+                {
+                	"label": "Controlled by Script [DO_NOT_EDIT]",
+                	"widget": "group_start"
+                },                    
+                    { 
+                    	"bindingName": "transformPosRotTex", 
+                    	"label":       "transformPosRotTex", 
+                    	"widget":      "texture_group",
+                    	"sortIndex":   "10",
+                    	"hint":        ""
+                    },
+                    
+                    {
+                    	"bindingName": "maxInstanceCount",
+                    	"label":       "maxInstanceCount",
+                    	"widget":      "spinbox",
+                    	"step":        "0.01",
+                    	"sortIndex":   "10",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "minPos",
+                    	"label":       "minPos",
+                    	"widget":      "spinbox",
+                    	"step":        "0.01",
+                    	"sortIndex":   "10",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "maxPos",
+                    	"label":       "maxPos",
+                    	"widget":      "spinbox",
+                    	"step":        "0.01",
+                    	"sortIndex":   "10",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    { 
+                    	"bindingName": "transformScaleTex", 
+                    	"label":       "transformScaleTex", 
+                    	"widget":      "texture_group",
+                    	"sortIndex":   "10",
+                    	"hint":        ""
+                    },
+                    
+                    {
+                    	"bindingName": "minSca",
+                    	"label":       "minSca",
+                    	"widget":      "spinbox",
+                    	"step":        "0.01",
+                    	"sortIndex":   "10",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "maxSca",
+                    	"label":       "maxSca",
+                    	"widget":      "spinbox",
+                    	"step":        "0.01",
+                    	"sortIndex":   "10",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "minRot",
+                    	"label":       "minRot",
+                    	"widget":      "spinbox",
+                    	"step":        "0.01",
+                    	"sortIndex":   "10",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "maxRot",
+                    	"label":       "maxRot",
+                    	"widget":      "spinbox",
+                    	"step":        "0.01",
+                    	"sortIndex":   "10",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                {
+                	"widget": "group_end"
+                },
+
+        {
+        	"widget": "group_end"
+        },
+        
+		
+	{
+		"bindingName": "alphaTestThreshold",
+		"widget": "slider",
+		"min" : 0.0,
+		"max" : 1.0,
+		"step": 0.001,
+		"default": 0.5,
+		"hint": "When the 'Alpha Test' blend mode is enabled, pixels with alpha values lower than this disappear."
+	}
+	
+	],
+	
+	"extraDefines":
+	[
+		"SC_ENABLE_RT_RECEIVER"
+	]
+}

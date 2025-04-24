@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    ca1043fb-88fb-404f-a2e1-2d5b7cb2dbb1: 866ac922-5add-4393-ad5e-4032d97b2023/f1f8dc445247fea9b5b85156512aac9a/Data/C_Champange_Glass_GEO.mesh
+  Assets:
+    - !<FileMesh/ca1043fb-88fb-404f-a2e1-2d5b7cb2dbb1>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 940
+        Vertices: 618
+        Blendshapes:
+          []
+        Joints: 1
+        AabbSize: {x: 9.525599, y: 29.930140, z: 9.525602}
+  SourceHash: f1f8dc445247fea9b5b85156512aac9a
+  FileHash: 455b81e0f746acea4f11630d93094fbe
+  NativePackageItems:
+    []

@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    d88382b3-1b69-4e6f-ab40-b0b955e680bb: dcbf218f-f3dd-4b86-a382-c07182e30dc8/93187cf37e6437c1ddd436e282306202/Data/soda_can_color.png
+  Assets:
+    - !<FileTexture/d88382b3-1b69-4e6f-ab40-b0b955e680bb>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: 93187cf37e6437c1ddd436e282306202
+  FileHash: 472849fde1bdb95e0ebff38c9428eeb4
+  NativePackageItems:
+    []

@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    f92226b4-159a-4428-869c-7695b73a3d70: b41d89fd-2740-42d8-8cda-3fd789b8bed2/e31da45bba47a76dee4987345745e2c6/Data/champagne_glass_color.png
+  Assets:
+    - !<FileTexture/f92226b4-159a-4428-869c-7695b73a3d70>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 256
+  SourceHash: e31da45bba47a76dee4987345745e2c6
+  FileHash: 005b7d13cccb4c2c7a38ba1244312dda
+  NativePackageItems:
+    []

@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    f90cf4eb-6698-4438-9027-43531dbc74a0: 2846c77b-e1bb-4bd6-b566-fb85b4b6afda/d2d01829e51c6d6397d9bc8e4a9ab6a4/Data/bottle_mini_booze_color.png
+  Assets:
+    - !<FileTexture/f90cf4eb-6698-4438-9027-43531dbc74a0>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: d2d01829e51c6d6397d9bc8e4a9ab6a4
+  FileHash: 283923566f22a35ee120692a2f1446ef
+  NativePackageItems:
+    []

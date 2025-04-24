@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    6024031e-1581-4605-8425-c99562a1a242: d2d13abf-fc3b-4da5-90fd-69535a09db48/7669bf553877fe9da12e3d697b3ca113/Data/C_umbrella_cocktail_GEO.mesh
+  Assets:
+    - !<FileMesh/6024031e-1581-4605-8425-c99562a1a242>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 276
+        Vertices: 416
+        Blendshapes:
+          []
+        Joints: 1
+        AabbSize: {x: 7.028017, y: 10.286512, z: 7.027939}
+  SourceHash: 7669bf553877fe9da12e3d697b3ca113
+  FileHash: 9db1534c3c79edb76d21e4189e2b1d58
+  NativePackageItems:
+    []
