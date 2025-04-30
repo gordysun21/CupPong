@@ -27,6 +27,7 @@
   MaxVisibility: Editable
   ScriptInputsHidden:
     deviceTracking: false
+    mainCamera: false
     objectToPlace: false
     previewObject: false
   ScriptTypesHidden:
@@ -39,6 +40,7 @@
       objectPrefab: !<reference.ObjectPrefab> 00000000-0000-0000-0000-000000000000
       parent: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
       previewObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      mainCamera: !<reference.Camera> 00000000-0000-0000-0000-000000000000
   ScriptTypes:
     -
       {}

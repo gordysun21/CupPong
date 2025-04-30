@@ -1,16 +1,19 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 602
+    size: 607
     values:
-      - 3D Hand Tracking Assets
       - 3D Hand Tracking Assets/Hand Tracking Asset Left 2.handTracking3D
       - 3D Hand Tracking Assets/Hand Tracking Asset Left 3.handTracking3D
       - 3D Hand Tracking Assets/Hand Tracking Asset Left 4.handTracking3D
+      - 3D Hand Tracking Assets/Hand Tracking Asset Left 5.handTracking3D
+      - 3D Hand Tracking Assets/Hand Tracking Asset Left 6.handTracking3D
       - 3D Hand Tracking Assets/Hand Tracking Asset Left.handTracking3D
       - 3D Hand Tracking Assets/Hand Tracking Asset Right 2.handTracking3D
       - 3D Hand Tracking Assets/Hand Tracking Asset Right 3.handTracking3D
       - 3D Hand Tracking Assets/Hand Tracking Asset Right 4.handTracking3D
+      - 3D Hand Tracking Assets/Hand Tracking Asset Right 5.handTracking3D
+      - 3D Hand Tracking Assets/Hand Tracking Asset Right 6.handTracking3D
       - 3D Hand Tracking Assets/Hand Tracking Asset Right.handTracking3D
       - Ball Assets
       - Ball Assets/Base.png
@@ -18,12 +21,14 @@ CollapsedEntities:
       - Ball Assets/Normal.png
       - Ball Assets/PBR.mat
       - Ball Assets/pbr.ss_graph
+      - Cup Matter.matter
       - Drinks Pack/.hidden
       - Drinks Pack/Bitmoji Drinks Pack Resources/Meshes/cup/Material/cup transparent.mat
       - Drinks Pack/Bitmoji Drinks Pack Resources/Textures/cup_color.png
       - Drinks Pack/Bitmoji Drinks Pack Resources/Textures/cup_color.png~
       - Echopark.hdr
-      - Pinch Ball.js
+      - Physics World Settings.worldSettings
+      - Ping Pong Ball Matter.matter
       - SpectaclesInteractionKit
       - SpectaclesInteractionKit/Assets
       - SpectaclesInteractionKit/Assets/Audio
@@ -604,5 +609,5 @@ CollapsedEntities:
       - SpectaclesInteractionKit/package.native
       - Sphere.mesh
       - Tap to Place.js
-      - World Mesh
+      - Throwing Ball.js
   options: 4

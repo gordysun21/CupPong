@@ -1,0 +1,51 @@
+- !<AssetImportMetadata/3b9e51ca-fb05-473c-8650-958dcdd16231>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 0057e292-a7c0-4ddc-8c49-6e5cdab172ac
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 0057e292-a7c0-4ddc-8c49-6e5cdab172ac
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> aaf9b4c0-c90a-472a-8503-9370f89c2f43
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/aaf9b4c0-c90a-472a-8503-9370f89c2f43>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: ecc3ebe8-2851-4104-817d-bdda3c731f69
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    mainCamera: false
+    pingPongBall: false
+    resetBallAfterThrow: false
+    resetDelay: false
+    startPosition: false
+    throwForce: false
+    throwUpwardAngle: false
+    throwVariation: false
+  ScriptTypesHidden:
+    {}
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - mainCamera: !<reference.Camera> 00000000-0000-0000-0000-000000000000
+      pingPongBall: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      throwForce: !<float> 10.000000
+      throwUpwardAngle: !<float> 45.000000
+      throwVariation: !<float> 5.000000
+      resetBallAfterThrow: true
+      resetDelay: !<float> 3.000000
+      startPosition: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+  ScriptTypes:
+    -
+      {}
